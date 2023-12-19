@@ -10,6 +10,16 @@
 <li>Shows a solid skill set in both leadership and teamwork within a cooperative work atmosphere.</li>
 <li>Skilled in various administrative tasks including minute-taking, petty cash management, scheduling, supply management, travel arrangements, and handling phone inquiries.</li>
 <li>Attentive to detail, fast learner, adept at swiftly acquiring and applying new skills.</li>
+  <li> Proficient in front-end web development technologies such as HTML, CSS, and JavaScript, with ongoing study and practical application in creating responsive and visually appealing web interfaces.</li>
+  <li>
+    Familiarity with back-end development principles, including database management, server-side scripting languages such as Node.js and API integration.
+  </li>
+  <li>
+    Demonstrated ability to troubleshoot and debug code, employing problem-solving skills to resolve technical issues efficiently.
+  </li>
+  <li>
+    Proactive learner with a passion for staying updated on industry trends and emerging technologies in web development.
+  </li>
 </ul>
 
 <h3>WORK EXPERIENCE</h3>
