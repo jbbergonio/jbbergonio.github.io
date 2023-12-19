@@ -1,7 +1,5 @@
-<h1>Hi, I'm Jearmaleen! <br/><a href="https://github.com/jbbergonio.github.io">Web Developer Student at Fanshawe College</a></h1>
-
-<p>
-I am presently seeking a part-time employment opportunity.</p>
+<h1>Hi, I'm Jearmaleen! <br/><a href="[https://jbbergonio.github.io](https://jbbergonio.github.io/)">Web Development Student at Fanshawe College, presently looking for a part-time employment opportunity.</a></h1>
+<p>London, Ontario N6H 2M1 | +1 437-557-1486 | jearmaleen@gmail.com</p>
 
 <h3>SUMMARY OF QUALIFICATIONS</h3>
 
@@ -25,10 +23,65 @@ I am presently seeking a part-time employment opportunity.</p>
 <li>Maintained excellent customer service and relationship standards among colleagues.</li>
 </ul>
 
+<h3>VOLUNTEER EXPERIENCE</h3>
+<p><strong>International Digital Ambassador – Volunteer – Remote</strong></p>
+<p>Fanshawe College, London, ON</p>
+<p>Sep 2023 – Present</p>
+<ul>
+  <li>
+    Offers online guidance by providing direction and information to prospective international students, to help them gain insights into various aspects of campus life and what it is like living in London, ON.
+  </li>
+</ul>
+
+<p><strong>Sunday School Teacher – Volunteer</strong></p>
+<p>Living Faith Assembly Church, London, ON</p>
+<p>July 2023 – Present</p>
+<ul>
+  <li>
+    Develops lessons using Superbook’s Bible stories as per the church’s curriculum.
+  </li>
+  <li>
+    Leads and teaches students in prayers and worships.
+  </li>
+</ul>
+
+<h3>SKILLS</h3>
+<ul>
+  <li>
+    Interpersonal and communication
+  </li>
+  <li>
+    Customer Service
+  </li>
+  <li>
+    Social Media Marketing
+  </li>
+  <li>
+    Written Communication
+  </li>
+  <li>
+    Organization, Planning, and Time Management
+  </li>
+  <li>
+    Teamwork
+  </li>
+  <li>
+    Supply Management
+  </li>
+  <li>
+    Working experience in Microsoft Office (Word, Excel, PowerPoint, and Outlook).
+  </li>
+  <li>
+    Course related experience Adobe Creative Cloud (Photoshop, Illustrator, and XD), WordPress, HTML, CSS, JavaScript, Bootstrap, REST API, Node.js, React Native, Angular, PHP, Database (MySQL and Oracle), Microsoft Azure, Linux.
+  </li>
+  <li>
+    Interest experience in Canva, Inshot, and PowerDirector.
+  </li>
+</ul>
 
 
 <h2>Web Development Projects:</h2>
-
+🔭 I’m currently working on my project portfolio.
 
 <h2>Connect with me:</h2>
 
