@@ -3,6 +3,19 @@
 <p>
 I am presently seeking a part-time employment opportunity.</p>
 
+<h3>SUMMARY OF QUALIFICATIONS</h3>
+<ul>
+<li>Manage time efficiently to handle multiple customer inquiries and requests in a fast-paced customer service environment.</li>
+<li>Proficient at building strong relationships and conveying information effectively.</li>
+<li>Effective decision-making and analytical skills refined through experience as a User Support Administrator.</li>
+<li>Shows a solid skill set in both leadership and teamwork within a cooperative work atmosphere.</li>
+<li>Skilled in various administrative tasks including minute-taking, petty cash management, scheduling, supply management, travel arrangements, and handling phone inquiries.</li>
+<li>Attentive to detail, fast learner, adept at swiftly acquiring and applying new skills.</li>
+</ul>
+
+
+
+
 <h2>Web Development Projects:</h2>
 
 
