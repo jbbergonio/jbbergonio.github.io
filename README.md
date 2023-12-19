@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jearmaleen! <br/><a href="[https://jbbergonio.github.io](https://jbbergonio.github.io/)">Web Development Student at Fanshawe College, presently looking for a part-time employment opportunity.</a></h1>
+<h1>Hi, I'm Jearmaleen! <br/><a href="https://jbbergonio.github.io">Web Development Student at Fanshawe College, presently looking for a part-time employment opportunity.</a></h1>
 <p>London, Ontario N6H 2M1 | +1 437-557-1486 | jearmaleen@gmail.com</p>
 
 <h3>SUMMARY OF QUALIFICATIONS</h3>
