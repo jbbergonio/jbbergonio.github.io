@@ -1,9 +1,10 @@
-<h1>Hi, I'm Jearmaleen! <br/><a href="https://github.com/jbbergonio.github.io)">Web Developer Student at Fanshawe College</a></h1>
+<h1>Hi, I'm Jearmaleen! <br/><a href="https://github.com/jbbergonio.github.io">Web Developer Student at Fanshawe College</a></h1>
 
 <p>
 I am presently seeking a part-time employment opportunity.</p>
 
 <h3>SUMMARY OF QUALIFICATIONS</h3>
+
 <ul>
 <li>Manage time efficiently to handle multiple customer inquiries and requests in a fast-paced customer service environment.</li>
 <li>Proficient at building strong relationships and conveying information effectively.</li>
@@ -13,6 +14,16 @@ I am presently seeking a part-time employment opportunity.</p>
 <li>Attentive to detail, fast learner, adept at swiftly acquiring and applying new skills.</li>
 </ul>
 
+<h3>WORK EXPERIENCE</h3>
+<p><strong>Senior User Support Administrator (OTL – Oracle Time and Labor) - Remote</strong></p>
+<p>Worley Engineering, Abu Dhabi, U.A.E.</p>
+<p>Dec 2014 – Nov 2022</p>
+<ul>
+<li>Managed the entirety of the organization’s timesheet system (OTL) specifically for the U.A.E. branch.</li>
+<li>Aided, provided support for, and conducted training for end-users utilizing the OTL system.</li>
+<li>User Acceptance Training participant.</li>
+<li>Maintained excellent customer service and relationship standards among colleagues.</li>
+</ul>
 
 
 
