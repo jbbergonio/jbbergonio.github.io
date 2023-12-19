@@ -1,4 +1,7 @@
-<h1>Hi, I'm Jearmaleen! <br/><a href="https://github.com/jbbergonio.github.io)">Web Developer Student</a>
+<h1>Hi, I'm Jearmaleen! <br/><a href="https://github.com/jbbergonio.github.io)">Web Developer Student at Fanshawe College</a></h1>
+
+<p>
+I am presently seeking a part-time employment opportunity.</p>
 
 <h2>Web Development Projects:</h2>
 
