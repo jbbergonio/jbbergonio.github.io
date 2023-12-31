@@ -1,16 +1,17 @@
-<h1>Hi, I'm Jearmaleen! <br/><a href="https://jbbergonio.github.io">Web Development Student at Fanshawe College, presently looking for a part-time employment opportunity.</a></h1>
+<h1>Hi, I'm Jearmaleen! <br/><a href="https://jbbergonio.github.io">Web Development Student at Fanshawe College, presently looking for an employment opportunity.</a></h1>
 <p>London, Ontario N6H 2M1 | +1 437-557-1486 | jearmaleen@gmail.com</p>
 
 <h3>SUMMARY OF QUALIFICATIONS</h3>
 
 <ul>
-<li>Manage time efficiently to handle multiple customer inquiries and requests in a fast-paced customer service environment.</li>
-<li>Proficient at building strong relationships and conveying information effectively.</li>
-<li>Effective decision-making and analytical skills refined through experience as a User Support Administrator.</li>
-<li>Shows a solid skill set in both leadership and teamwork within a cooperative work atmosphere.</li>
-<li>Skilled in various administrative tasks including minute-taking, petty cash management, scheduling, supply management, travel arrangements, and handling phone inquiries.</li>
-<li>Attentive to detail, fast learner, adept at swiftly acquiring and applying new skills.</li>
-  <li> Proficient in front-end web development technologies such as HTML, CSS, and JavaScript, with ongoing study and practical application in creating responsive and visually appealing web interfaces.</li>
+<li>Quick learner, highly trainable, and adaptable to new programs and systems.</li>
+<li>Effective decision-making and analytical skills refined through experience as an Oracle Time and Labor Administrator.</li>
+<li>Ability to work in a fast-paced environment while maintaining accuracy and quality in all tasks undertaken.</li>
+<li>Excellent problem-solving skills and able to effectively resolve challenges.</li>
+<li>Builds positive relationships with colleagues and clients through strong interpersonal and communication skills.</li>
+<li>Capable of working independently and/or in a team collaboration.</li>
+  <li>Manage time efficiently to handle multiple customer inquiries and requests.</li>
+  <li>Proficient in front-end web development technologies such as HTML, CSS, and JavaScript, with ongoing study and practical application in creating responsive and visually appealing web interfaces.</li>
   <li>
     Familiarity with back-end development principles, including database management, server-side scripting languages such as Node.js and API integration.
   </li>
@@ -23,14 +24,16 @@
 </ul>
 
 <h3>WORK EXPERIENCE</h3>
-<p><strong>Senior User Support Administrator (OTL – Oracle Time and Labor) - Remote</strong></p>
+<p><strong>Senior Oracle Time and Labor Administrator - Hybrid</strong></p>
 <p>Worley Engineering, Abu Dhabi, U.A.E.</p>
 <p>Dec 2014 – Nov 2022</p>
 <ul>
 <li>Managed the entirety of the organization’s timesheet system (OTL) specifically for the U.A.E. branch.</li>
 <li>Aided, provided support for, and conducted training for end-users utilizing the OTL system.</li>
-<li>User Acceptance Training participant.</li>
-<li>Maintained excellent customer service and relationship standards among colleagues.</li>
+<li>Referred to OTL user guides and technical manuals to investigate and implement resolutions.</li>
+<li>Collected and documented issues, and escalated service tickets to seek assistance from functional support analysts.</li>
+  <li>User Acceptance Training participant.</li>
+  <li>Maintained excellent customer service and relationship standards among colleagues.</li>
 </ul>
 
 <h3>VOLUNTEER EXPERIENCE</h3>
@@ -58,16 +61,17 @@
 <h3>SKILLS</h3>
 <ul>
   <li>
-    Interpersonal and communication
+    Interpersonal and communication skills
   </li>
+  <li>Tech Savvy</li>
   <li>
     Customer Service
   </li>
   <li>
-    Social Media Marketing
+    Fast Learner
   </li>
   <li>
-    Written Communication
+    Oral and Written Communication
   </li>
   <li>
     Organization, Planning, and Time Management
